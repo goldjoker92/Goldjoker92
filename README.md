@@ -21,6 +21,14 @@ As a persistent seeker of knowledge, I'm always immersing myself in the ocean of
 
 I'm always open to collaborate on intriguing projects. So, if you're in search of a solution, need advice, or just want to chat about the magic of technology, don't hesitate to get in touch!
 
-You can reach me at: [goldjoker@hotmail.fr](mailto:goldjoker@hotmail.fr)
+
+
+![Your name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goldjoker92&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goldjoker92&layout=compact&theme=dark)](https://github.com/Goldjoker92/github-readme-stats)
+
+You can reach me at: [goldjoker@hotmail.fr](mailto:goldjoker@hotmail.fr). Click on it to send me an email!
+
+
 
 
