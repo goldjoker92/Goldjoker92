@@ -1,6 +1,6 @@
 # Hello there 👋, I'm Goljoker92 
 
-I'm a tech lead and front-end developer based in Europe 🌍, with a knack for back-end technologies. My driving force is my unyielding passion for engaging in innovative projects and utilizing cutting-edge technologies to turn my dreams into reality and help others achieve their goals.
+I'm a tech lead and front-end developer based in Europe 🌍, with a knack for front-end technologies et back-end tech toO. My driving force is my unyielding passion for engaging in innovative projects and utilizing cutting-edge technologies to turn my dreams into reality and help others achieve their goals.
 
 Peace & lovey const = PositiveMind ... $$$$$$$$$$$$$
 @Goldjoker92 
