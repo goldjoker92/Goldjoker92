@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello there 👋, I'm Goljoker92 
 
-<!--
-**goldjoker92/Goldjoker92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a tech lead and front-end developer based in Europe 🌍, with a knack for back-end technologies. My driving force is my unyielding passion for engaging in innovative projects and utilizing cutting-edge technologies to turn my dreams into reality and help others achieve their goals.
 
-Here are some ideas to get you started:
+## My Expertise 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Front-End:
+- React ⚛️⭐⭐⭐⭐⭐
+- React Native ⚛️⭐⭐⭐⭐⭐
+- HTML 📄⭐⭐⭐⭐⭐
+- CSS 🎨⭐⭐⭐⭐⭐
+- JavaScript (ES6+) 🟨⭐⭐⭐⭐⭐
+
+### Back-End:
+- Node.js 🟩⭐⭐⭐⭐⭐
+- Python 🐍⭐⭐⭐⭐⭐
+
+As a persistent seeker of knowledge, I'm always immersing myself in the ocean of tech trends, trying to stay on top of the wave. 
+
+## Let's connect! 🌐
+
+I'm always open to collaborate on intriguing projects. So, if you're in search of a solution, need advice, or just want to chat about the magic of technology, don't hesitate to get in touch!
+
