@@ -1,4 +1,6 @@
-# Hello there 👋, I'm Goljoker92 
+# Hello there 👋, I'm Goljoker92
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${Goldjoker92}&left_color=green&right_color=red)
 
 I'm a tech lead and front-end developer based in Europe 🌍, with a knack for front-end technologies et back-end tech toO. My driving force is my unyielding passion for engaging in innovative projects and utilizing cutting-edge technologies to turn my dreams into reality and help others achieve their goals.
 
