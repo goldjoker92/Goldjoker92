@@ -7,6 +7,7 @@ Peace & lovey const (onClick) => PositiveMind ... $$$$$$$$$$$$$
 @Goldjoker92 
 
 ## My Expertise 🚀
+<a href="https://app.daily.dev/Guigui92"><img src="https://api.daily.dev/devcards/e05fb241388b40aa851bef86022de33c.png?r=49b" width="200" left="50" alt="Goldjoker92's Dev Card"/></a>
                   
 ### Front-End:
 - React ⚛️⭐⭐⭐⭐⭐
@@ -20,6 +21,7 @@ Peace & lovey const (onClick) => PositiveMind ... $$$$$$$$$$$$$
 - Python 🐍⭐⭐⭐⭐⭐
 
 As a persistent seeker of knowledge, I'm always immersing myself in the ocean of tech trends, trying to stay on top of the wave. 
+
 
 ## Let's connect! 🌐
 
